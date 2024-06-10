@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Page
 
-![Profile Banner]![image](https://github.com/SuperbMike/SuperbMike/assets/129975493/dae344fb-1069-4d0c-b1dd-f039c889a80b)
+![image](https://github.com/SuperbMike/SuperbMike/assets/129975493/dae344fb-1069-4d0c-b1dd-f039c889a80b)
 
 
 ## About Me
