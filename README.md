@@ -66,34 +66,6 @@ Hello! I'm Michael, a skilled data engineer and analyst with a strong background
 - Designed interactive visualizations using Streamlit Cloud for intuitive data exploration.
 - Gained insights into market trends and facilitated better trading decisions for investors and traders.
 
-## Experience
-
-### Data Engineering Course | DataTalks ZoomCamp | Jan 2024 - Present
-- Participated in a comprehensive data engineering course offered by DataTalks ZoomCamp, spanning a duration of nine weeks.
-- Developed proficiency in key aspects of the data engineering process, including workflow orchestration, data warehouse management, analytics engineering, batch processing, and streaming data handling.
-- Applied acquired knowledge and skills to develop an end-to-end data pipeline, culminating in the creation of a fully functional data engineering project.
-
-### Data Analyst Formation | Digital City Brussel | 2022 - 2023
-- Participated in an intensive data analyst formation program, acquiring a diverse skill set in statistical analysis, probability theory, Python programming, SQL querying, and business intelligence.
-- Developed expertise in various aspects of business intelligence, including data warehousing, data mining, and machine learning techniques using Python, R, and SAS.
-
-### ANDY DRINKS | June 2022 - Nov 2022
-- Used VBA to extract and transform data from local flat files, creating an Excel dashboard that was used daily by the extended team, resulting in a weekly time savings of 14 hours.
-- Performed exploratory analysis of the company's quarterly spending using R, resulting in a detailed report with key performance indicators, visualizations, and insights.
-- Developed a data pipeline using Python and SQL to process semi-structured data from external REST APIs, processing over 200 data points per day.
-
-### Gorillas | June 2021 - June 2022
-- Implemented data-driven quality assurance protocols and risk assessment methodologies to ensure precision and safety of product packaging procedures.
-- Employed advanced data analytics techniques to enhance demand forecasting, achieving a 20% improvement in inventory accuracy through predictive modeling and trend analysis.
-
-### BLECKMANN | June 2019 - Sept 2020
-- Led and directed a team of 25 order pickers, applying data-driven methodologies to optimize warehouse operations.
-- Utilized Redledge and JDA software to analyze order flow patterns, identify inefficiencies, and enhance both inbound and outbound processes, resulting in a notable 15% efficiency boost.
-
-### DELTA SERVICES | Nov 2018 - Jun 2019
-- Assisted the head accountant with payroll and accounts receivable tasks.
-- Accompanied the head accountant on client visits to meet their needs and ensure satisfactory accounts.
-- Contributed to financial reports, calculated payroll, and entered financial data.
 
 ## Contact
 
@@ -121,4 +93,5 @@ This repository is licensed under the [MIT License](LICENSE.md). You are free to
 
 Thank you for visiting my GitHub page! I hope you find my work interesting and useful. Feel free to explore the repositories and leave feedback.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats]https://github-readme-stats.vercel.app/api?username=SuperbMike&show_icons=true&theme=radical
+
