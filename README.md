@@ -8,34 +8,6 @@
 
 Hello! I'm Michael, a skilled data engineer and analyst with a strong background in programming, data warehousing, and machine learning. I have a passion for transforming data into actionable insights and building scalable data solutions. This GitHub page showcases my projects, contributions, and professional journey in the world of data engineering and analytics.
 
-## Skills
-
-- **Programming:** JavaScript, Python (Pandas, PySpark, Matplotlib, NumPy, Requests), R, SQL, Django, Flask, Docker, Unix, Shell scripting, RESTful APIs.
-- **Data Warehousing Platforms:** Redshift, EMR, DynamoDB, BigQuery, SQL Data Warehouse, HDInsight, Hadoop, Spark.
-- **Databases:** Relational (MySQL, PostgreSQL, Oracle, SQL Server), NoSQL (Cassandra, DynamoDB, MongoDB, Redis).
-- **Processing & Orchestration:** Airflow, Kafka, Kubernetes, Terraform, Lambda, S3, Glue, Elasticsearch, EMR, Snowflake, DBT (custom packages, macros, tests), Nifi.
-- **Analytics & Business Intelligence:** Tableau, Power BI, Looker, QuickSight, Azure, GCP, GitHub, Git, JIRA, Jenkins.
-- **Machine Learning:** PyTorch, TensorFlow, MongoDB.
-- **Project Management & Agile Methodologies:** Scrum, JIRA, Jenkins, GitHub/Git.
-- **Graduate-level skills:** Mathematics, statistics, and computer science, including machine learning theory and applications.
-
-## Professional Skills
-
-- **Experienced Client Counselor:** Skilled in building strong relationships with senior stakeholders, resulting in improved client satisfaction by 30% through active listening and effective communication.
-- **Polished Presenter:** Proficient in delivering polished presentations to both technical and non-technical audiences, recognized by managers for outstanding communication skills, resulting in a 50% increase in successful project proposals.
-
-## Certifications
-
-- Google Data Analytics Professional Certificate
-- Azure Data Engineer Associate (DP-203)
-- Azure Data Fundamentals (DP-900)
-- DataTalks Data Engineering ZoomCamp
-
-## Education
-
-- **Bachelor of Science in Accounting & Finance**  
-  London Metropolitan University
-
 ## Projects
 
 ### 1. Housing Market Analysis Dashboard
