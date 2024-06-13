@@ -1,7 +1,4 @@
 
-# Welcome
-
-![image](https://github.com/SuperbMike/SuperbMike/assets/129975493/dae344fb-1069-4d0c-b1dd-f039c889a80b)
 
 # Michael Byron - Data Engineer & Analyst
 
