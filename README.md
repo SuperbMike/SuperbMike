@@ -53,7 +53,7 @@ Hello! I'm Michael, a skilled data engineer and analyst with a strong background
 ## Contact
 Feel free to reach out via:  
 📧 [Email](mailto:michael_byron@hotmail.co.uk)  
-💼 [LinkedIn](https://www.linkedin.com/in/michael-byron)
+💼 [LinkedIn](https://www.linkedin.com/in/michael-b-a3960273/)
 
 ## Contributing
 If you're interested in contributing, please:
